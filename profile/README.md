@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/miracodeai/.github/main/profile/assets/Dashboard.png" alt="Mira dashboard — review activity and code quality metrics" width="100%" />
+  <img src="https://raw.githubusercontent.com/miracodeai/.github/main/profile/assets/readme-hero.png" alt="Mira — Ship the code. Catch the bugs. Open-source, self-hosted AI code review with your choice of model." width="100%" />
 </p>
 
 <p align="center">
@@ -23,6 +23,10 @@ Run the full platform on your own infrastructure: the review engine, codebase in
 - **Rules that fit your team.** Set review guidelines in plain language. Mira also learns from rejected comments and human review patterns on merged pull requests.
 - **Visibility across repositories.** Explore package inventories, vulnerability alerts, dependencies, review activity, and model costs from your own dashboard.
 - **Self-hosted from day one.** Deploy with Docker and SQLite or Postgres. You control where Mira stores your diffs, indexes, and review history, and which model provider processes your code.
+
+### Dashboard
+
+![Mira dashboard — review activity and code quality metrics](https://raw.githubusercontent.com/miracodeai/.github/main/profile/assets/Dashboard.png)
 
 ### Our repositories
 
